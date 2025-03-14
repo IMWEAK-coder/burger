@@ -9,7 +9,7 @@ html{
     scroll-padding: 160px;
 }
 body{
-    background:linear-gradient(to right bottom,#00000069,#00000062),url("images/Screenshot\ 2025-03-01\ 143730.png");
+    background:linear-gradient(to right bottom,#00000069,#00000062),url("Screenshot\ 2025-03-01\ 143730.png");
     background-repeat: no-repeat,no-repeat;
     background-size: cover,cover;
     background-attachment: fixed;
